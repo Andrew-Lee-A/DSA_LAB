@@ -11,4 +11,5 @@ package Week3;
  */
 public class NewClass {
     //test comment
+    //test comment 2
 }
