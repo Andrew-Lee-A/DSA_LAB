@@ -1,9 +1,5 @@
 package Week6;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-
 /**
    A class which includes common algorithms for sorting arrays
    of Comparable objects in place.Note the elements of the array are presumed to be non-null
